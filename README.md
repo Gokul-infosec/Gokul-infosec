@@ -12,7 +12,7 @@
 - 🧠 Beginner Ethical Hacker | Passionate about breaking & securing things
 - 🔧 Training on: TryHackMe | Google Cybersecurity | IBM | Microsoft | Cisco
 - 💥 Currently focused on: Pentesting, CVE Exploitation, and Threat Hunting
-- ❤️ Dream: To protect, build, and one day marry the girl I love — through pure skill & hustle
+- ❤️ Dream: To lead global red teams and break into systems before the bad guys do
 
 
 ### 🧰 Tools & Tech I Use:
