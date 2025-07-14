@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Gokulnath D | Aspiring Penetration Tester 🚀</h1>
+<h1 align="center">⚔ Gokulnath D | Aspiring Penetration Tester </h1>
 
 <p align="center">
   <b>Cybersecurity Enthusiast | Committed to Continuous Growth & Real-World Impact
