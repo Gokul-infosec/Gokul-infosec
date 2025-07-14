@@ -1,8 +1,10 @@
 <h1 align="center">⚔️ Gokulnath D | Aspiring Penetration Tester 🚀</h1>
 
 <p align="center">
-  <b>Cybersecurity Warrior | Zero to Hero | Mission: 1L/month 💰</b><br>
-  <b>🔥 In WARMODE every single day 🔥</b>
+  <b>Cybersecurity Enthusiast | Committed to Continuous Growth & Real-World Impact
+</b><br>
+  <b>Dedicated to mastering cybersecurity through hands-on labs and real-world challenges.
+</b>
 </p>
 
 
