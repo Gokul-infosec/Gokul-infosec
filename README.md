@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">⚔️ Gokulnath D | Aspiring Penetration Tester 🚀</h1>
 
-<!--
-**Gokul-infosec/Gokul-infosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Cybersecurity Warrior | Zero to Hero | Mission: 1L/month 💰</b><br>
+  <b>🔥 In WARMODE every single day 🔥</b>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Who Am I?
+- 🧠 Beginner Ethical Hacker | Passionate about breaking & securing things
+- 🔧 Training on: TryHackMe | Google Cybersecurity | IBM | Microsoft | Cisco
+- 💥 Currently focused on: Pentesting, CVE Exploitation, and Threat Hunting
+- ❤️ Dream: To protect, build, and one day marry the girl I love — through pure skill & hustle
+
+
+### 🧰 Tools & Tech I Use:
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE5000?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnulinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-100000?style=for-the-badge&logo=metasploit&logoColor=white)
+
+
+### 🧠 Learning Platforms:
+- 🔒 TryHackMe: [Profile Link](https://tryhackme.com/p/GokulnathD)
+- 📘 Coursera (Google, IBM, Microsoft)
+- 🛡️ Cisco Networking Academy
+- 🎯 EC-Council
+  
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gokul-infosec&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul-infosec&theme=tokyonight" />
+</p>
+
+### 📫 Contact Me:
+- 📧 gokulnath3d@gmail.com
+- 📍 Chennai , India
+- ⚔️ Always available for Internships & Entry-Level Roles!
+
+
+> “**Born broke, rise brutally.** Every sweat I shed is one step closer to making her mine & making my name echo in this industry.” – Gokul D 💀🔥
