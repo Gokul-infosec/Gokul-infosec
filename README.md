@@ -44,4 +44,4 @@
 - ⚔️ Always available for Internships & Entry-Level Roles!
 
 
-> “*Born broke, rising brutally. Every drop of sweat is a weapon sharpened to carve my name into cybersecurity history.” – Gokul D 💀🔥
+> “Born broke, rising brutally. Every drop of sweat is a weapon sharpened to carve my name into cybersecurity history.” – Gokul D 💀🔥
