@@ -10,7 +10,7 @@ Through certifications like **CEH v13**, **eJPT (ongoing)**, and future **CPENT*
 ## 🛡️ About Me
 - 🎓 B.Sc. Information Security & Cyber Forensics  
 - 🎓 M.Sc. Cyber Forensics & Information Security  
-- 📜 Certified: Cisco Cybersecurity, Google Cybersecurity, IBM Cybersecurity, Splunk Training  
+- 📜 Certified: Cisco Jr Cybersecurity analyst, Google Cybersecurity, Microsoft Cybersecurity Analyst  
 - 🎯 Career Goal: Become a **Professional Penetration Tester** and advance into **Red Teaming**  
 - 💡 Love creating **documentation, labs, and notes** to simplify cybersecurity learning  
 
