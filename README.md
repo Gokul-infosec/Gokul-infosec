@@ -1,47 +1,51 @@
-<h1 align="center"> Gokulnath D | Aspiring Penetration Tester </h1>
+# 👨‍💻 Gokul | Aspiring Penetration Tester  
 
-<p align="center">
-  <b>Cybersecurity Enthusiast | Committed to Continuous Growth & Real-World Impact
-</b><br>
-  <b>Dedicated to mastering cybersecurity through hands-on labs and real-world challenges.
-</b>
-</p>
+🚀 **Cybersecurity Enthusiast | VAPT | Red Teaming**  
 
+I am passionate about **offensive security** and currently building strong foundations in **Vulnerability Assessment & Penetration Testing (VAPT)**.  
+Through certifications like **CEH v13**, **eJPT (ongoing)**, and future **CPENT**, I’m shaping myself into a skilled **Red Team Operator**.  
 
-### 🛡️ Who Am I?
-- 🧠 Beginner Ethical Hacker | Passionate about breaking & securing things
-- 🔧 Training on: TryHackMe | Google Cybersecurity | IBM | Microsoft | Cisco
-- 💥 Currently focused on: Pentesting, CVE Exploitation, and Threat Hunting
-- ❤️ Dream: To lead global red teams and break into systems before the bad guys do
+---
 
+## 🛡️ About Me
+- 🎓 B.Sc. Information Security & Cyber Forensics  
+- 🎓 M.Sc. Cyber Forensics & Information Security  
+- 📜 Certified: Cisco Cybersecurity, Google Cybersecurity, IBM Cybersecurity, Splunk Training  
+- 🎯 Career Goal: Become a **Professional Penetration Tester** and advance into **Red Teaming**  
+- 💡 Love creating **documentation, labs, and notes** to simplify cybersecurity learning  
 
-### 🧰 Tools & Tech I Use:
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE5000?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnulinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-100000?style=for-the-badge&logo=metasploit&logoColor=white)
+---
 
+## 🔥 Current Focus
+- Studying **Certified Ethical Hacker v13** (Red Team Hacker Academy)  
+- Documenting **cybersecurity concepts & frameworks**  
+- Building **CEH-v13 Notes Repository** on GitHub  
+- Practicing on **TryHackMe & VulnHub labs**  
+- Preparing for **eJPT** and **CPENT**  
 
-### 🧠 Learning Platforms:
-- 🔒 TryHackMe: [Profile Link](https://tryhackme.com/p/GokulnathD)
-- 📘 Coursera (Google, IBM, Microsoft)
-- 🛡️ Cisco Networking Academy
-- 🎯 EC-Council
-  
+---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gokul-infosec&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gokul-infosec&theme=tokyonight" />
-</p>
+## 🛠️ Skills & Tools
+- **Pentesting Basics:** Footprinting, Scanning, Vulnerability Assessment, Exploitation  
+- **Web Security:** SQL Injection, XSS, Authentication Attacks  
+- **Networking:** TCP/IP, Firewalls, IDS/IPS, VPNs  
+- **Tools:** Nmap, Wireshark, Burp Suite, Metasploit, Hydra, SQLmap, JohnTheRipper  
+- **Platforms:** Kali Linux, Windows Server, VirtualBox, Splunk, TryHackMe  
 
-### 📫 Contact Me:
-- 📧 gokulnath3d@gmail.com
-- 📍 Chennai , India
-- ⚔️ Always available for Internships & Entry-Level Roles!
+---
 
+## 📂 Featured Repositories
+🔹 [CEH v13 Notes](https://github.com/yourusername/CEH-v13-Notes) *(in progress)*  
+🔹 [Cybersecurity Frameworks](https://github.com/yourusername/Frameworks) *(MITRE ATT&CK, Kill Chain, Diamond Model)*  
+🔹 [Pentesting Labs](https://github.com/yourusername/Pentesting-Labs) *(TryHackMe, VulnHub writeups)*  
 
-> “Born broke, rising brutally. Every drop of sweat is a weapon sharpened to carve my name into cybersecurity history.” – Gokul D 💀🔥
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/gokulcyber)  
+- 📧 Email: gokulnath3d@gmail.com  
+
+---
+
+⚔️ *“Pentesting is not about breaking systems — it’s about building stronger ones by breaking limits.”*
+
