@@ -14,12 +14,12 @@ MSc Cyber Forensics & Information Security graduate focused on offensive securit
 ## 📜 Certifications
 - **eJPT**, INE (2025)
 - **CEH v13**, EC-Council (2025)
-- **HTB CPTS**, Hack The Box: exam completed, result awaited
+- **HTB CPTS** (Certified Penetration Testing Specialist), Hack The Box (2026) ✅
 - Google Cybersecurity · Microsoft Cybersecurity Analyst · Cisco Ethical Hacker · Cisco Junior Cybersecurity Analyst
 
 ## 🔥 Current Focus
-- Completing TCM Security's Practical Ethical Hacking
 - Hands-on boxes and Active Directory attack labs
+- Bug bounty hunting on Bugcrowd
 - Writing pentest reports with CVSS scoring and remediation
 
 ## 🛠️ Skills & Tools
@@ -32,9 +32,11 @@ MSc Cyber Forensics & Information Security graduate focused on offensive securit
 
 ## 📂 Repositories
 - 🔹 [CPTS-NOTES](https://github.com/Gokul-infosec/CPTS-NOTES): practical notes, commands and methodology from the HTB CPTS path
-- 🔹 [CEH-v13-Notes](https://github.com/Gokul-infosec/CEH-v13-Notes): CEH v13 notes in my own words
+- 🔹 [CEH-v13-Notes](https://github.com/Gokul-infosec/CEH-v13-Notes): CEH v13 notes in my own words (all 20 modules)
+- 🔹 [eJPT-NOTES](https://github.com/Gokul-infosec/eJPT-NOTES): practical notes and methodology from the INE eJPT/PTS path
 
 ## 📫 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/gokulcyber)
 - 📧 gokulnath3d@gmail.com
 - 🎯 [TryHackMe](https://tryhackme.com/p/GokulnathD)
+- 📦 [Hack The Box](https://profile.hackthebox.com/profile/019e6a7c-d5ec-7102-8e00-63b35515e9cf)
