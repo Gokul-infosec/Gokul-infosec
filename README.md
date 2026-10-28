@@ -12,9 +12,9 @@ MSc Cyber Forensics & Information Security graduate focused on offensive securit
 - 📄 Publication: *ML Django Framework Integration for IoT Attacks*, IJCST, May 2025
 
 ## 📜 Certifications
-- **eJPT**, INE (2025)
-- **CEH v13**, EC-Council (2025)
-- **HTB CPTS** (Certified Penetration Testing Specialist), Hack The Box (2026) ✅
+- **eJPT**, INE
+- **CEH v13**, EC-Council
+- **HTB CPTS** (Certified Penetration Testing Specialist), Hack The Box ✅
 - Google Cybersecurity · Microsoft Cybersecurity Analyst · Cisco Ethical Hacker · Cisco Junior Cybersecurity Analyst
 
 ## 🔥 Current Focus
